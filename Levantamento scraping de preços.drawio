@@ -1,71 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T00:42:23.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="1Gqf8TtoLWO2qLb_06Z-" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T14:03:18.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XMUDuE8N8fl3FLXA5vGN" version="21.1.4" type="github">
   <diagram name="Página-1" id="nprm7sruLtdzTOHmmzYV">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MriIZT0bFitw7LXNy0AU-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="10" y="60" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-2" target="MriIZT0bFitw7LXNy0AU-4">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MriIZT0bFitw7LXNy0AU-2" target="MriIZT0bFitw7LXNy0AU-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="420" as="sourcePoint" />
             <mxPoint x="130" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Acessar a lista de sites a cada x minutos&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Acessar a lista de sites a cada x minutos&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MriIZT0bFitw7LXNy0AU-6">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="MriIZT0bFitw7LXNy0AU-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="120" as="sourcePoint" />
             <mxPoint x="320" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-6" target="MriIZT0bFitw7LXNy0AU-8">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MriIZT0bFitw7LXNy0AU-6" target="MriIZT0bFitw7LXNy0AU-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Fazer uma busca por um produto&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Fazer uma busca por um produto&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-8" target="MriIZT0bFitw7LXNy0AU-11">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MriIZT0bFitw7LXNy0AU-8" target="MriIZT0bFitw7LXNy0AU-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-8" value="Filtrar o preço" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-8" value="Filtrar o preço" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-11" target="MriIZT0bFitw7LXNy0AU-13">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MriIZT0bFitw7LXNy0AU-11" target="MriIZT0bFitw7LXNy0AU-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-11" value="Fazer a captura do preço" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-11" value="Fazer a captura do preço" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-13" target="MriIZT0bFitw7LXNy0AU-15">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MriIZT0bFitw7LXNy0AU-13" target="MriIZT0bFitw7LXNy0AU-15" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Salvar no banco de dados&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Salvar no banco de dados&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="MriIZT0bFitw7LXNy0AU-15" target="MriIZT0bFitw7LXNy0AU-29">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="MriIZT0bFitw7LXNy0AU-15" target="MriIZT0bFitw7LXNy0AU-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Dados a ser gravado&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Dados a ser gravado&lt;/font&gt;&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="270" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-28" value="&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Domínio da loja acessada&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Nome da loja&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Valor atual&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Valor novo&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Data da gravação&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Hora da gravação&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="MriIZT0bFitw7LXNy0AU-15">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-28" value="&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Domínio da loja acessada&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Nome da loja&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Valor atual&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Valor novo&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Data da gravação&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Hora da gravação&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="MriIZT0bFitw7LXNy0AU-15" vertex="1">
           <mxGeometry x="5" y="40" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-29" value="Regras de negócio / Requisitps" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-29" value="Regras de negócio / Requisitps" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
           <mxGeometry x="130" y="320" width="390" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-30" value="&lt;ul&gt;&lt;li&gt;RFN1 - o primeiro registro gravado, deve informar zero no campo valor novo e o preço de pesquisa no campo valor atual&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="MriIZT0bFitw7LXNy0AU-29">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-30" value="&lt;ul&gt;&lt;li&gt;RFN1 - o primeiro registro gravado, deve informar zero no campo valor novo e o preço de pesquisa no campo valor atual&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="MriIZT0bFitw7LXNy0AU-29" vertex="1">
           <mxGeometry x="5" y="40" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MriIZT0bFitw7LXNy0AU-31" value="&lt;ul&gt;&lt;li&gt;RN1- o registro só pode ser gravado quando o valor novo for menor que o valor atual.&lt;/li&gt;&lt;li&gt;RN2 - quando o valor novo for igual ao atual,&amp;nbsp; não deve salvar o registro na base de dados&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="MriIZT0bFitw7LXNy0AU-29">
+        <mxCell id="MriIZT0bFitw7LXNy0AU-31" value="&lt;ul&gt;&lt;li&gt;RN1- o registro só pode ser gravado quando o valor novo for menor que o valor atual.&lt;/li&gt;&lt;li&gt;RN2 - quando o valor novo for igual ao atual,&amp;nbsp; não deve salvar o registro na base de dados&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="MriIZT0bFitw7LXNy0AU-29" vertex="1">
           <mxGeometry x="5" y="140" width="380" height="80" as="geometry" />
         </mxCell>
       </root>
